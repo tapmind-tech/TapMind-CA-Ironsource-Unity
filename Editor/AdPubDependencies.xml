@@ -1,7 +1,7 @@
 <dependencies>
   <androidPackages>
 
-<androidPackage spec="com.github.tapmind-tech.TapMind-CA-Unity-Levelplay-Android:CustomAdapter-ironSource:1.0.7">
+<androidPackage spec="com.github.tapmind-tech.TapMind-CA-Unity-Levelplay-Android:CustomAdapter-ironSource:1.0.9">
         <repositories>
             <repository>https://maven.google.com/</repository>
             <repository>https://repo.maven.apache.org/maven2/</repository>
